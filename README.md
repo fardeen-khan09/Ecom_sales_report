@@ -46,4 +46,4 @@ It provides key business insights into **profit trends, product performance**, a
 ---
 
 ### 📬 Contact
-Created by **[Your Name]** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/your-link/)
+Created by **[FARDEEN KHAN]** — feel free to connect on [LinkedIn](https://www.linkedin.com/in/mrfardeenkhan)
