@@ -42,23 +42,6 @@ The main goal of this project is to **visualize sales insights** and identify ke
 | `dashboard_preview.png` | Dashboard image preview |
 
 ---
-
-## 🚀 How to Use
-1. Download the `.pbix` file from this repository.  
-2. Open it in **Power BI Desktop**.  
-3. Explore visualizations and filters for deeper insights.  
-
----
-
-## 🧾 Business Use Case
-This dashboard helps e-commerce stakeholders monitor:
-- Profit and sales growth per quarter.  
-- Most profitable product categories and regions.  
-- Preferred customer payment methods.  
-- Seasonal profit fluctuations across months.  
-
----
-
 ## ✨ Insights Summary
 The Ashok E-Commerce Dashboard simplifies data-driven decision-making by turning raw sales data into actionable visuals.  
 It highlights which states, categories, and payment modes contribute the most to overall performance.
@@ -66,7 +49,7 @@ It highlights which states, categories, and payment modes contribute the most to
 ---
 
 ## 👨‍💻 Created By
-**Fardeen Khan**  
+**FARDEEN KHAN**  
 📍 Data Analytics Enthusiast  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mrfardeenkhan)
 
