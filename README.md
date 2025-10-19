@@ -41,7 +41,7 @@ The main goal of this project is to **visualize sales insights** and identify ke
 | `ashok_sales_dashboard.pdf` | Exported PDF version of the dashboard |
 | `dashboard_preview.png` | Dashboard image preview |
 | `chart_with_filters.png` | Power BI chart |
-| `Kpis_closeup.png` |  
+| `Kpis_closeup.png` |  Closeup of Power BI|
 
 ---
 ## ✨ Insights Summary
