@@ -26,12 +26,6 @@ The main goal of this project is to **visualize sales insights** and identify ke
 
 ---
 
-## 📷 Dashboard Preview
-> *(Add an image screenshot of your dashboard here — name it `dashboard_preview.png`)*
-
-![Dashboard Preview](dashboard_preview.png)
-
----
 
 ## 🛠️ Tools & Technologies Used
 - **Microsoft Power BI** – Data visualization & dashboard creation  
