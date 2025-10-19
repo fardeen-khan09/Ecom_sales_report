@@ -1,4 +1,4 @@
-# 🧾 Ashok E-Commerce Sales Dashboard
+# 🧾 ASHOK E-COMMERCE SALES DASHBOARD
 
 ## 📊 Project Overview
 This Power BI dashboard provides a detailed analysis of **Ashok E-Commerce** sales performance across multiple states, categories, and payment modes.  
